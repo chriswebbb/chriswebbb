@@ -1,5 +1,5 @@
 # Hello, I'm Christian
-Welcome to my Github!  I'm currently in my 3rd year of an MEng in Electrical and Electronic Engineering at the <a href="https://southampton.ac.uk">University of Southampton</a>.
+In 3rd year of MEng in Electrical and Electronic Engineering at the <a href="https://southampton.ac.uk">University of Southampton</a>.
 
 <p float="left">
 
